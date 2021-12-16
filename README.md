@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pratham Rasal</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pratham Rasal</h1>
 <h3 align="center">Backend Developer | Web 3.0 Enthusiat | Data Science Enthusiast</h3>
 <p align="center"
 <a href="https://www.linkedin.com/in/prathamrasal/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1639639919~hmac=83a3360c0aa9e9b8ef957ad3151938d4" alt="Pratham" height="40" width="40" /> &nbsp</a>
