@@ -40,7 +40,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://miro.medium.com/max/800/1*Q5EUk28Xc3iCDoMSkrd1_w.png" width="30px"> </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" width="30px"> </a>
     <a href="https://isocpp.org/" target="-blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
