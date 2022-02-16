@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/prathamrasal/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-flat-icon/linkedin-flat-icon-10.jpg" alt="Pratham" height="40" width="40" /> &nbsp</a>
 <a href="https://www.facebook.com/pratham11rasal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Pratham" height="40" width="40" />&nbsp</a>
 <a href="https://www.hackerrank.com/prathamrasal6" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/768px-Hackerrank_meaningful_logo.svg.png" height="40" width="40" />&nbsp</a>
-<a href = "mailto: prathamrasal6@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
+<a href = "emailto: prathamrasal6@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
 </p>
 </p>
 
