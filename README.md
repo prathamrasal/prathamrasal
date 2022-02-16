@@ -5,7 +5,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Pratham Rasal</h1>
 <h3 align="center">Backend Developer | Web 3.0 Enthusiast | Data Science Enthusiast</h3>
 <p align="center"
-<a href="https://www.linkedin.com/in/prathamrasal/" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1639639919~hmac=83a3360c0aa9e9b8ef957ad3151938d4" alt="Pratham" height="40" width="40" /> &nbsp</a>
+<a href="https://www.linkedin.com/in/prathamrasal/" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ficon-library.com%2Fimages%2Flinkedin-flat-icon%2Flinkedin-flat-icon-10.jpg&imgrefurl=https%3A%2F%2Ficon-library.com%2Ficon%2Flinkedin-flat-icon-4.html&tbnid=Q6YyOmYce-dtZM&vet=12ahUKEwip0ajM1YP2AhVskNgFHQABDCAQMygIegUIARDFAQ..i&docid=D_tJKmBsX7R4CM&w=512&h=512&q=linkedin%20icon%20font%20awesome&ved=2ahUKEwip0ajM1YP2AhVskNgFHQABDCAQMygIegUIARDFAQ" alt="Pratham" height="40" width="40" /> &nbsp</a>
 <a href="https://www.facebook.com/pratham11rasal/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Pratham" height="40" width="40" />&nbsp</a>
 <a href="https://www.hackerrank.com/prathamrasal6" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Hackerrank_meaningful_logo.svg/768px-Hackerrank_meaningful_logo.svg.png" height="40" width="40" />&nbsp</a>
 <a href = "mailto: prathamrasal6@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
