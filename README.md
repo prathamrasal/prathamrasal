@@ -32,7 +32,7 @@
 ✔ I’m currently learning **Flask** & **MongoDB**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Web Development**<br>
-✔ I use to write coad on [HackerRank](https://www.hackerrank.com/prathamrasal6) <br>
+✔ I use to write code on [HackerRank](https://www.hackerrank.com/prathamrasal6) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
