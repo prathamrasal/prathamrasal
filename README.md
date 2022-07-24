@@ -29,7 +29,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently learning **Flask** & **MongoDB**<br>
+✔ I’m currently learning **Artificial Intelligence**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Web Development**<br>
 ✔ I use to write code on [HackerRank](https://www.hackerrank.com/prathamrasal6) <br>
